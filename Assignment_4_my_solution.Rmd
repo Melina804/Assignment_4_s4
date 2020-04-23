@@ -298,7 +298,6 @@ summary(NS_informed_m1)
 
 # Adding an information criteriom
 NS_informed_m1 <- add_criterion(NS_informed_m1, criterion = "loo", reloo = T)
-
 ```
 
 Step 5: Compare the models
